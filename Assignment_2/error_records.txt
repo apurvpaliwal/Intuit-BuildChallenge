@@ -1,0 +1,5 @@
+Line 16: Quantity must be positive (got 0) | RAW=ORD014|Eva Chen|Mouse|0|25.50|2024-03-24
+Line 17: Quantity must be positive (got -1) | RAW=ORD015|John Smith|Mouse|-1|25.50|2024-03-24
+Line 18: Invalid UnitPrice: 'abc' | RAW=ORD016|Bob Lee|Mouse|1|abc|2024-03-24
+Line 19: Invalid OrderDate (expected YYYY-MM-DD): '03-24-2024' | RAW=ORD017|Carla Diaz|Mouse|1|25.50|03-24-2024
+Line 20: Wrong field count (expected 6, got 4) | RAW=BAD|LINE|MISSING|FIELDS

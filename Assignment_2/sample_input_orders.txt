@@ -1,0 +1,20 @@
+ORD001|John Smith|Laptop|1|999.99|2024-03-15
+ORD001|John Smith|Mouse|2|25.50|2024-03-15
+ORD002|Alice Johnson|Monitor|1|249.99|2024-03-16
+ORD003|Bob Lee|Desk Chair|1|189.99|2024-03-16
+ORD004|Carla Diaz|Standing Desk|1|650.00|2024-03-17
+ORD005|Eva Chen|Keyboard|2|45.00|2024-03-18
+ORD006|Alice Johnson|Docking Station|1|129.99|2024-03-18
+ORD007|Bob Lee|Laptop|1|799.99|2024-03-19
+ORD007|Bob Lee|USB-C Cable|3|12.00|2024-03-19
+ORD008|Carla Diaz|Monitor|2|260.00|2024-03-20
+ORD009|Eva Chen|Webcam|1|89.95|2024-03-20
+ORD010|John Smith|Printer|1|550.00|2024-03-21
+ORD011|Alice Johnson|Headset|1|120.00|2024-03-21
+ORD012|Bob Lee|Microphone|1|140.00|2024-03-22
+ORD013|Carla Diaz|Lamp|2|35.00|2024-03-23
+ORD014|Eva Chen|Mouse|0|25.50|2024-03-24
+ORD015|John Smith|Mouse|-1|25.50|2024-03-24
+ORD016|Bob Lee|Mouse|1|abc|2024-03-24
+ORD017|Carla Diaz|Mouse|1|25.50|03-24-2024
+BAD|LINE|MISSING|FIELDS
